@@ -1,0 +1,32 @@
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\bin\Debug\bank_animation.exe.config
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\bin\Debug\bank_animation.exe
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\bin\Debug\bank_animation.pdb
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\bank_animation.csprojResolveAssemblyReference.cache
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\Client.g.cs
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\MainWindow.g.cs
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\App.g.cs
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\bank_animation_MarkupCompile.cache
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\bank_animation_MarkupCompile.lref
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\Client.baml
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\MainWindow.baml
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\bank_animation.g.resources
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\bank_animation.Properties.Resources.resources
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\bank_animation.csproj.GenerateResource.Cache
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\bank_animation.exe
+C:\Users\EgorV_000.PROMETEUS\Documentation\ВУЗ\Программирование\проекты С#\bank_animation\bank_animation\obj\Debug\bank_animation.pdb
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\bin\Debug\bank_animation.exe.config
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\bank_animation.exe
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\bank_animation.pdb
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\Client.g.cs
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\MainWindow.g.cs
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\App.g.cs
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\bank_animation_MarkupCompile.cache
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\bank_animation_MarkupCompile.lref
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\bin\Debug\bank_animation.exe
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\bin\Debug\bank_animation.pdb
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\Client.baml
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\MainWindow.baml
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\bank_animation.g.resources
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\bank_animation.Properties.Resources.resources
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\bank_animation.csproj.GenerateResource.Cache
+C:\Users\EgorV_000.PROMETEUS\Documentation\Univer\Programm\С#-proj\bank_animation\bank_animation\obj\Debug\bank_animation.csprojResolveAssemblyReference.cache
